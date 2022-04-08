@@ -1,9 +1,9 @@
 #include <stdio.h>
+
 /**
  * main -entry about
  *
- * Description: priniting task
- * 
+ * Description: priniting task 
  * Return: 0
  */
 int main(void)
