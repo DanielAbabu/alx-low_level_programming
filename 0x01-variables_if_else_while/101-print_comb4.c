@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main -entry about
  *
@@ -31,4 +32,3 @@ putchar('\n');
 
 return (0);
 }
-
