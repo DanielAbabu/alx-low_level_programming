@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include <stdio.h>`
 
 /**
  * main -entry about
  *
  * Description: priniting task
- * Return 0
+ * Return: Always 0
  */
 int main(void)
 {
